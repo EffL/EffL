@@ -1,3 +1,4 @@
-# EffL (Efficient Learning) Lab at POSTECH
+# EffL @ POSTECH
 
-We are interested in developing algorithms, theories, and systems to make ML more efficient than ever.
+**EffL** (pronounced as that 🗼 in Paris) stands for **Eff**icient **L**earning.  
+We are interested in developing _algorithms, theories, and systems_ to make ML more efficient than ever.
